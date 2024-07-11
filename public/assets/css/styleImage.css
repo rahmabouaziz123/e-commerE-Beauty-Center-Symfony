@@ -1,0 +1,64 @@
+.divTotal {
+  display: flex;
+  flex-wrap: wrap;
+}
+.exp1 {
+  margin: 10px;
+  width: 300px!important;
+}
+
+.img1 {
+  height: 280px !important;
+}
+
+body {
+  color: #e2b093;
+  background-color: #f7edee !important;
+}
+
+.div-navbar {
+  background-color: #d7a7ac!important;
+}
+
+html{
+    background-color: #f7edee !important;
+    
+  }
+
+  footer {
+    /* background: #e7e7e6; */
+    margin: 0px auto; 
+     padding: 20px 0px;
+     
+     background-color: #d7a7ac!important;
+}
+
+.divButy{
+    text-align: center;
+    color:  #8d3f47;
+}
+
+
+.divCategory{
+    display: flex;
+    flex-wrap: wrap;
+
+   
+
+}
+
+.divCategory1{
+    margin: 30px;
+    width: 370px !important;
+   
+}
+
+.colorbtn{
+
+background-color: #8d3f47!important;
+}
+
+.divCategory2{
+    background-color:#d7a7ac!important ;
+}
+
